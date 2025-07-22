@@ -1,0 +1,19 @@
+Task 1 :While doing this task, I learned how to set up a basic Java project using Git and organize it in a clean folder structure. I created a repository called java-skills-idris, added folders like src/, and included a README.md to describe the project and my name. I also created a .gitignore file to skip .class files and IDE folders like .idea/ or .vscode/, which keeps the repo clean. One useful thing I learned was how to write a compile script using the javac command to compile all Java files easily from the terminal. This task helped me understand how real developers structure and manage their projects using Git.
+
+
+Task 2: This program helped me understand how to calculate weekly pay based on employee type and working hours. I also learned how to apply tax rules using conditions and how to create summary statistics like highest, lowest, and average pay. I practiced using arrays, loops, if-else, and switch statements all in one project. It also showed me how to print a clean payroll report in the console.
+
+
+Task 3: From the GradeManager program, I learned how to work with arrays and loops to reverse strings, assign letter grades based on conditions, and filter out failing students. It helped me practice if-else statements, working with multiple arrays, and using loops to process student data.
+From the TextProcessor program, I understood how to count words in a sentence and how to replace words in a string. I learned how to use string methods like split() and replace(), and how to handle null or empty input safely.
+These programs helped me improve my logic-building and understand how to break a task into small methods that each do one job.
+
+
+Task 4: From the Book and Textbook (Library) program, I learned how to use inheritance in Java. The Textbook class extends the Book class, which means it can use all its features and also add its own. I also practiced using constructors, method overriding, and how to call a parent method using super. It showed me how to manage and display book information and how to track borrowing.
+From the VisitorCounter program, I learned about using static variables to track something shared across all objects — in this case, total visitors. I also practiced creating object-specific data with instance variables, and how to mix both in one class. It helped me understand the difference between data that belongs to one object and data shared by all objects.
+These programs helped me better understand OOP concepts like inheritance, static vs. instance variables, and method overriding in a simple way.
+
+Task 5: I learned how to work with arrays, loops, and conditional statements in Java. The ShoppingCart program taught me how to calculate totals, apply discounts based on customer types using a switch statement, find the most expensive item, and count items above a certain price. The PatternMaker program helped me understand how to use nested loops to print number triangles and generate multiplication tables. Overall, these programs improved my understanding of how to perform calculations, create patterns, and use control structures effectively in Java.
+
+
+Task 6: While working on the tasks using Git, I learned how to organize my code using branches for different features, which helped keep my work clean and separate. For each task, I created a branch like feature/basic-programming for simple Java programs and committed with clear messages like "Add UserInfo class with basic properties". I found the object-oriented programming part more challenging, especially inheritance and overriding methods, but it helped me understand how classes interact. I tested my code by running the main methods and checking the output to make sure everything worked as expected. One thing I want to improve is writing cleaner and more reusable code. Overall, I learned how to manage code versions, track changes with Git, and write more organized Java programs.
